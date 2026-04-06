@@ -20,15 +20,16 @@ This project demonstrates basic GPIO control using STM32F103C8 (Blue Pill) with 
 ## 🔌 Hardware
 
 * STM32F103C8 (Blue Pill)
-* Onboard LED (PC13)
+* Onboard LED (PA10)
 
 ## 🛠️ Tools Used
 
 * STM32CubeIDE
+* Proteus for simulation 
 
 ## ▶️ How It Works
 
-The LED connected to PC13 is toggled every 500 ms using HAL functions.
+The LED connected to PA10 is toggled every 500 ms using HAL functions.
 
 ## 🚀 Future Improvements
 
