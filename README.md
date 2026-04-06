@@ -20,7 +20,7 @@ This project demonstrates basic GPIO control using STM32F103C8 (Blue Pill) with 
 ## 🔌 Hardware
 
 * STM32F103C8 (Blue Pill)
-* Onboard LED (PA10)
+* LED + RESISTOR (220Oohm) (PA10)
 
 ## 🛠️ Tools Used
 
